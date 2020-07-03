@@ -1,18 +1,42 @@
 {
     "0" : [
-        "Atopic Dermatitis",
-        "Beagle"
+        "Beagle",
+        "beagle"
     ],
     "1" : [
-        "Normal",
-        "nm"
+        "Chihuahua",
+        "chihuahua"
     ],
     "2" : [
-        "Psoriasis",
-        "ps"
+        "French Bulldog",
+        "french_bulldog"
     ],
     "3" : [
-        "Seborrhoeic Keratosis",
-        "sk"
+        "Golden Retriever",
+        "golden_retriever"
+    ],
+    "4" : [
+        "Pomeranian",
+        "pomeranian"
+    ],
+    "5" : [
+        "Pug",
+        "pug"
+    ],
+    "6" : [
+        "Rottweiler",
+        "rottweiler"
+    ],
+    "7" : [
+        "Shih-Tzu",
+        "shih-tzu"
+    ],
+    "8" : [
+        "Siberian_Husky",
+        "siberian_husky"
+    ],
+    "9" : [
+        "Yorkshire Terrier",
+        "yorkshire_terrier"
     ]
 }
